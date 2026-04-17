@@ -71,7 +71,7 @@ An interactive Power BI dashboard created to visualize:
 - Discount impact analysis  
 - Key KPIs (Sales, Profit, Orders, Margin)
 
-<img width="1323" height="795" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/0d149fd8-c6c0-4908-b526-5a66142149ca" />
+<img width="1323" height="795" alt="Snapshot of the Dashboard" src="https://github.com/ravalsahil03/amazone-sales-analysis/blob/main/Dashboard%20Snapshot.png" />
 
   ## Business Recommendations
 - Expand high-performing categories like Beauty  
